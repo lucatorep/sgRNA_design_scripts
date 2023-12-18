@@ -4,7 +4,7 @@ _NOTE._ This script has been developed for the following publication:
 
 
 The script compares and finds the sgRNA sequences with desired features combining CRISPR-ERA (Liu et al, 2015), Yeast CRISPRi (Smith et al, 2016), and CHOPCHOP (Labun et al, 2019). 
-Script available also in the "sgRNA-Donor-Design_Script.pdf" file (with figures embedded in the code).
+Script available also in the "sgRNA-Donor-Design_Script.pdf" file (with descriptions and dataframes embedded in the code).
 
 Getting started:
 
